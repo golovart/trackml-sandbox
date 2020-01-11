@@ -1,0 +1,4 @@
+data/event000001000-particles.csv filter=lfs diff=lfs merge=lfs -text
+data/event000001000-truth.csv filter=lfs diff=lfs merge=lfs -text
+data/event000001000-cells.csv filter=lfs diff=lfs merge=lfs -text
+data/event000001000-hits.csv filter=lfs diff=lfs merge=lfs -text
